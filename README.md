@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/CITuNf2uZk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/2MmYUXNl3t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 For some reason i seem to have a developer account error after i push my code to github
