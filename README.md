@@ -28,4 +28,4 @@ Here's a walkthrough of implemented user stories:
 For some reason i seem to have a developer account error after i push my code to github
 
 Here is the link to my gif for some reson it is not displaying on here 
-http://g.recordit.co/2MmYUXNl3t.gif
+http://g.recordit.co/CITuNf2uZk.gif
